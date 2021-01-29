@@ -1,0 +1,6 @@
+tie|Tie a knot in one end of the cotton.|bağ/bağlamak/bağlantı/kravat|Pamuğun bir ucuna bir düğüm at.
+rot|The leaves were turning black with rot.|çürümek|Yapraklar çürümeyle kararıyordu.
+book|I read book.|Kitap|Ben kitap okurum.
+name|My name is Toivo.|ad|Benim adım Toivo.
+house|My house is big.|Ev|Benim evim büyük.
+influence|He was a major influence in her life.|etki/etkilemek/nüfuz|Onun hayatında büyük bir etkiydi
