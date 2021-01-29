@@ -1,0 +1,13 @@
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.layout.GridPane?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.control.TextArea?>
+<GridPane fx:controller="com.toivoland.dictionary.main.Controller"
+          xmlns:fx="http://javafx.com/fxml" alignment="center" hgap="10" vgap="10">
+    <HBox  prefHeight="50.0" prefWidth="500.0">
+        <TextArea text="AAAAA" prefWidth="10" prefHeight="20"></TextArea>
+    </HBox>
+</GridPane>
