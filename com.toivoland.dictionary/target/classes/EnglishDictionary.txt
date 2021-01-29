@@ -1,4 +1,0 @@
-book|I read book.|Kitap|Ben kitap okurum.
-name|My name is Toivo.|ad|Benim adım Toivo.
-house|My house is big.|Ev|Benim evim büyük.
-influence|He was a major influence in her life.|etki/etkilemek/nüfuz|Onun hayatında büyük bir etkiydi
